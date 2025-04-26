@@ -1,4 +1,4 @@
-![MasterHead](https://pbs.twimg.com/ext_tw_video_thumb/1716600005878824960/pu/img/wksbt3VDvQiKAwl2.jpg:large)
+![MasterHead](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)
 <h1 align="center">Hello 👋, I'm Likith Gowda S</h1>
 <h3 align="center">A passionate software developer from Australia</h3>
 
